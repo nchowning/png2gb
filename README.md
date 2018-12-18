@@ -1,5 +1,7 @@
 # png2gb.py
 
+![yesimnathan](https://raw.githubusercontent.com/nchowning/png2gb/master/example.png)
+
 Script that converts a PNG into tiles and a tilemap for the Game Boy
 
 This was cobbled together in an evening. Currently to use it, your image will need to be:
