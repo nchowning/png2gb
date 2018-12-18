@@ -10,3 +10,5 @@ This was cobbled together in an evening. Currently to use it, your image will ne
 - Colormap set to 4 maximum colors (no transparency)
 
 As of right now, this script doesn't have a good way to map colors to the Game Boy palette. That will come later.
+
+The example Makefile also assumes that you have [gbdk-n](https://github.com/andreasjhkarlsson/gbdk-n) installed at `../`. You'll need to pull it down & compile it separately.
